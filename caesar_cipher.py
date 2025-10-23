@@ -2,7 +2,6 @@
 """
 Caesar Cipher Implementation
 A simple encryption/decryption program using the Caesar cipher technique.
-Added Line in comment to test CI/CD
 """
 
 def caesar_encrypt(text, shift):
